@@ -1,0 +1,20 @@
+{
+  "B.Pharm": {
+    "Semester 1": {
+      "Pharmaceutics I": {
+        "Unit 1": "https://1024terabox.com/s/your-pdf-link1",
+        "Unit 2": "https://1024terabox.com/s/your-pdf-link2"
+      },
+      "Pharmaceutical Chemistry I": {
+        "Unit 1": "https://1024terabox.com/s/your-pdf-link3"
+      }
+    }
+  },
+  "D.Pharm": {
+    "Semester 1": {
+      "Pharmacology": {
+        "Unit 1": "https://1024terabox.com/s/your-pdf-link4"
+      }
+    }
+  }
+}
