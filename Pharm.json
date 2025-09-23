@@ -2,20 +2,52 @@
   "B.Pharm": {
     "Semester 1": {
       "Human anatomy and physiology-I": {
-        "Unit 1": "https://u.pcloud.link/publink/show?code=XZCUJe5ZOLaOJQSOqmYDftSeArilt5UJiAcV",
-        "Unit 2": "https://github.com/Sonurajpt/Notes/releases/download/Hap/Human.anatomy.and.physiology.-.I.pdf"
+        "Unit 1": "https://link-to-unit1.pdf",
+        "Unit 2": "https://link-to-unit2.pdf"
       },
       "Pharmaceutical Chemistry I": {
-        "Unit 1": "https://1024terabox.com/s/1ONghZgUIo7GC8qMAWCdeqQ"
+        "Unit 1": "https://link-to-unit1.pdf"
+      }
+    },
+    "Semester 2": {
+      "Pathophysiology": {
+        "Unit 1": "https://link-to-unit1.pdf",
+        "Unit 2": "https://link-to-unit2.pdf"
+      },
+      "Biochemistry": {
+        "Unit 1": "https://link-to-unit1.pdf"
+      }
+    },
+    "Semester 3": {
+      "Pharmaceutical Microbiology": {
+        "Unit 1": "https://link-to-unit1.pdf",
+        "Unit 2": "https://link-to-unit2.pdf"
+      },
+      "Pharmaceutical Engineering": {
+        "Unit 1": "https://link-to-unit1.pdf"
+      }
+    },
+    "Semester 4": {
+      "Pharmacology I": {
+        "Unit 1": "https://link-to-unit1.pdf",
+        "Unit 2": "https://link-to-unit2.pdf"
+      },
+      "Medicinal Chemistry I": {
+        "Unit 1": "https://link-to-unit1.pdf"
       }
     }
-  }
-},
+  },
   "D.Pharm": {
     "Semester 1": {
-      "Pharmacology": {
-        "Unit 1": ""
+      "Pharmaceutics I": {
+        "Unit 1": "https://link-to-unit1.pdf",
+        "Unit 2": "https://link-to-unit2.pdf"
+      }
+    },
+    "Semester 2": {
+      "Pharmaceutical Chemistry": {
+        "Unit 1": "https://link-to-unit1.pdf"
       }
     }
   }
-
+}
