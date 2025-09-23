@@ -8,33 +8,6 @@
       "Pharmaceutical Chemistry I": {
         "Unit 1": "https://1024terabox.com/s/1ONghZgUIo7GC8qMAWCdeqQ"
       }
-    },
-    "Semester 2": {
-      "Pathophysiology": {
-        "Unit 1": "https://example.com/sem2-patho-unit1.pdf",
-        "Unit 2": "https://example.com/sem2-patho-unit2.pdf"
-      },
-      "Biochemistry": {
-        "Unit 1": "https://example.com/sem2-biochem-unit1.pdf"
-      }
-    },
-    "Semester 3": {
-      "Pharmaceutical Microbiology": {
-        "Unit 1": "https://example.com/sem3-micro-unit1.pdf",
-        "Unit 2": "https://example.com/sem3-micro-unit2.pdf"
-      },
-      "Pharmaceutical Engineering": {
-        "Unit 1": "https://1024terabox.com/s/1ONghZgUIo7GC8qMAWCdeqQ"
-      }
-    },
-    "Semester 4": {
-      "Pharmacology I": {
-        "Unit 1": "https://example.com/sem4-pharma-unit1.pdf",
-        "Unit 2": "https://example.com/sem4-pharma-unit2.pdf"
-      },
-      "Medicinal Chemistry I": {
-        "Unit 1": "https://example.com/sem4-medichem-unit1.pdf"
-      }
     }
   }
 },
