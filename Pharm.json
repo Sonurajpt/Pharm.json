@@ -39,9 +39,12 @@
       }
       },
     "Semester 4": {
-      "Pharmacology I": {
-        "Unit 1": "https://link-to-unit1.pdf",
-        "Unit 2": "https://link-to-unit2.pdf"
+      "Pharmaceutical organic chemistry 3": {
+        "Unit 1": "https://drive.google.com/file/d/14qUKrCfw8xrJfzJZr9hY7_LIP6rDdkyO/view?usp=drivesdk",
+        "Unit 2": "https://drive.google.com/file/d/1xE9jyCFWwWSSOVrbT6GawSrAF924wPf-/view?usp=drivesdk",
+        "Unit 3": "https://drive.google.com/file/d/1VWLTNLU2dH5k2UPuaJHj2RfueSoOf-qq/view?usp=drivesdk",
+        "Unit 4": "https://drive.google.com/file/d/1QLuTGKEa8zwVbHrZSXvs-oHVaSX8pt5O/view?usp=drivesdk",
+        "Unit 5": "https://drive.google.com/file/d/1oRcrhaOC62Cv43GpLU_LlfXiGigF6NCS/view?usp=drivesdk"
       },
       "Medicinal Chemistry I": {
         "Unit 1": "https://link-to-unit1.pdf"
